@@ -27,7 +27,7 @@ I have stood in the halls where the American was born \
 British/Gernman/French, supervised, inspected, approved for boarding, \
 By the childrens children their fathers fathers once traded \
 Like baseball cards; \
-A place of 98% hope and 2% tears. \
+A place of 2% hope and 98% tears. \
 \
 And oh green mortal gaurd, \
 Bless thine torch, \
@@ -64,7 +64,7 @@ As we are so too \
 Animal. \
 \
 Roller skater gentlemen join taxis in the dance, \
-The traffic light chioreographer drowned screaming \
+The traffic light choreographer drowned screaming \
 By jay walk and ignore. \
 \
 I do not feel, \
@@ -80,7 +80,7 @@ Singing silent sunshine. \
 \
 Any who for sufficiently long, \
 Plays an act \
-(Either to themselves of in public) \
+(Either to themselves or in public) \
 Ceases to be an actor, \
 This is law, \
 This is what it means to take. \
