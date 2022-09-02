@@ -128,7 +128,7 @@ Lied about her age to save her life. \
 \
 A smile -- \
 "My dog shits in Central Park" -- \
-None loves a God like a God, \
+None loves a God like a God image. \
 \
 Took the Amtrack, \
 Down to New Jersey, \
