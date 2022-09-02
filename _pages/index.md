@@ -7,6 +7,7 @@ permalink: /
 - 2018
   - [A Complete Guide to Hating](/poetry/2018/A Complete Guide to Hating)
   - [A Number of Possible Endings](/poetry/2018/A Number of Possible Endings)
+  - [Mammon](/poetry/2018/Mammon)
 - 2019
   - [Alice](/poetry/2019/Alice)
   - [Gnilcyc Dipar](/poetry/2019/Gnilcyc Dipar)
@@ -29,6 +30,7 @@ permalink: /
 - 2022
   - [A Female Mao](/poetry/2022/A Female Mao)
   - [Adolescence](/poetry/2022/Adolescence)
+  - [Bach Roller](/poetry/2022/Bach Roller)
   - [Biological Female](/poetry/2022/Biological Female)
   - [Caphill Made Warm](/poetry/2022/Caphill Made Warm)
   - [Pain](/poetry/2022/Pain)
