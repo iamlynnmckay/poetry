@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Adolescence
+permalink: /2022/Adolescence
 ---
 
 DOB \

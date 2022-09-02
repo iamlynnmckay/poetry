@@ -1,8 +1,3 @@
 remote_theme: iamlynnmckay/jekyll-theme-iamlynnmckay
 include: 
   - '_pages'
-  - '_pages/2018'
-  - '_pages/2019'
-  - '_pages/2020'
-  - '_pages/2021'
-  - '_pages/2022'

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: poetry
+permalink: /
 ---
 
 - 2018

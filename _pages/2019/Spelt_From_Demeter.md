@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Spelt From Demeter
+permalink: /2019/Spelt From Demeter
 ---
 
 Amen, in nest; mantis hysteria; fog machine; phallic chilli. \

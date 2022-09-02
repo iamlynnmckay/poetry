@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Caphill Made Warm
+permalink: /2022/Caphill Made Warm
 ---
 
 Caphill each day I listen as \

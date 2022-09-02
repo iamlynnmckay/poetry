@@ -1,6 +1,7 @@
 ---
 layout: page
 title: SEA
+permalink: /2019/SEA
 ---
 
 I don't like this picture, \

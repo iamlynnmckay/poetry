@@ -1,6 +1,7 @@
 ---
 layout: page
 title: My Friend Yishai
+permalink: /2021/My Friend Yishai
 ---
 
 ## I

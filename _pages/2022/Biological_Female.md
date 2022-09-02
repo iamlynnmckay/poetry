@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Biological Female
+permalink: /2022/Biological Female
 ---
 
 Smash your head against a concrete block, \

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: A Female Mao
+permalink: /2022/A Female Mao
 ---
 
 Men like snacks, turn. \

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: An Literature
+permalink: /2020/An Literature
 ---
 
 My Sundays hands flip through catalogues \

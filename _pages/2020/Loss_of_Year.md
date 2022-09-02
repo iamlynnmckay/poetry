@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Loss of Year
+permalink: /2020/Loss of Year
 ---
 
 Hit me fucking \

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: The One For K
+permalink: /2020/The One For K
 ---
 
 ## I. Attack

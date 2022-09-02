@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Alice
+permalink: /2019/Alice
 ---
 
 ## Wednesday

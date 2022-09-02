@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Jeff 
+permalink: /2020/Jeff
 ---
 
 I work for The Big One \

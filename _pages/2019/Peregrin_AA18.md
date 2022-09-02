@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Peregrin AA18
+permalink: /2019/Peregrin AA18
 ---
 
 ## I

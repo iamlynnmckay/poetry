@@ -1,6 +1,7 @@
 ---
 layout: page
 title: The Walls are Trembling and the Sky is Gone
+permalink: /2020/The Walls are Trembling and the Sky is Gone
 ---
 
 Smoke days, they came \

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Manhattan
+permalink: /2019/Manhattan
 ---
 
 ## I

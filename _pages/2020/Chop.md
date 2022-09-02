@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Chop
+permalink: /2020/Chop
 ---
 
 ## I. Echo Chamber

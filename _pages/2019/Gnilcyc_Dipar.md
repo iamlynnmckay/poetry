@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Gnilcyc Dipar
+permalink: /2019/Gnilcyc Dipar
 ---
 
 How many are we \

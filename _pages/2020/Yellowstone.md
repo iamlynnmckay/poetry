@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Yellowstone
+permalink: /2020/Yellowstone
 ---
 
 Yellowstone, you are a zoo; \

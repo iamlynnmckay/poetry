@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Polling Day
+permalink: /2019/Polling Day
 ---
 
 Come one, come all, \

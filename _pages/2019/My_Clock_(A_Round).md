@@ -1,6 +1,7 @@
 ---
 layout: page
 title: My Clock (A Round)
+permalink: /2019/My Clock (A Round)
 ---
 
 I like the reset button \
