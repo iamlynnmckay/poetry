@@ -5,6 +5,7 @@ cat > _pages/index.md << EOF
 ---
 layout: page
 title: poetry
+permalink: /
 ---
 
 EOF
