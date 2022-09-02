@@ -22,7 +22,7 @@ If he lived in the sea. \
 Ne'er said a word, \
 But the eyes, I can see, \
 The old ape has gone off and \
-Been kissing God again. \
+Been kissing God again.
 
 ## II
 \
@@ -45,7 +45,9 @@ I am well too.) \
 Of sign ins, sign ups, sign ons, \
 Signs, spiritual signs, \
 Signs only I can hear, \
-Signs that speak only to me. \
+Signs that speak only to me.
+
+## III
 \
 And there is roadwork. \
 Endless roadword. \
