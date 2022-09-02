@@ -1,4 +1,7 @@
-# Caphill Made Warm
+---
+layout: page
+title: Caphill Made Warm
+---
 
 Caphill each day I listen as \
 You shake a tremble-quiver \

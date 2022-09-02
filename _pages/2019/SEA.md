@@ -1,4 +1,7 @@
-# SEA
+---
+layout: page
+title: SEA
+---
 
 I don't like this picture, \
 Because it looks like I have tiny arms, \

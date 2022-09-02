@@ -1,4 +1,7 @@
-# Peregrin AA18
+---
+layout: page
+title: Peregrin AA18
+---
 
 ## I
 \

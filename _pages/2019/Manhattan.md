@@ -1,4 +1,7 @@
-# Manhattan
+---
+layout: page
+title: Manhattan
+---
 
 ## I
 \

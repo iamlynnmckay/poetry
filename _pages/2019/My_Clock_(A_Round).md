@@ -1,4 +1,7 @@
-# My Clock (A Round)
+---
+layout: page
+title: My Clock (A Round)
+---
 
 I like the reset button \
 Because it forgives, \

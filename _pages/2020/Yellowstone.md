@@ -1,4 +1,7 @@
-# Yellowstone
+---
+layout: page
+title: Yellowstone
+---
 
 Yellowstone, you are a zoo; \
 I want to know your parts, \

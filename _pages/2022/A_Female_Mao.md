@@ -1,4 +1,7 @@
-# A Female Mao
+---
+layout: page
+title: A Female Mao
+---
 
 Men like snacks, turn. \
 I like clown in the image of the mirror \

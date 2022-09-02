@@ -1,4 +1,7 @@
-# The Walls are Trembling and the Sky is Gone
+---
+layout: page
+title: The Walls are Trembling and the Sky is Gone
+---
 
 Smoke days, they came \
 Of bush, a blaze \

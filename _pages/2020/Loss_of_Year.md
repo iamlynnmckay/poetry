@@ -1,4 +1,7 @@
-# Loss of Year
+---
+layout: page
+title: Loss of Year
+---
 
 Hit me fucking \
 Hit me fucking \
@@ -20,4 +23,4 @@ San Francisco. \
 Me told me I have been too busy, well, \
 Try begs try, to try too much would lose me too; \
 In all about what is right, \
-Not what is good. \
+Not what is good. 

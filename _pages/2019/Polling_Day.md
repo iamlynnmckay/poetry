@@ -1,4 +1,7 @@
-# Polling Day
+---
+layout: page
+title: Polling Day
+---
 
 Come one, come all, \
 Ladies and gentlemen \

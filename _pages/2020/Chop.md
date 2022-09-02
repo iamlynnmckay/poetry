@@ -1,4 +1,7 @@
-# Chop
+---
+layout: page
+title: Chop
+---
 
 ## I. Echo Chamber
 
@@ -167,4 +170,4 @@ Love the anarchists for they -- \
 No pictures, please -- \
 Please livestream my friends because -- \
 I didn't mean -- \
-Well that's just not okay. \
+Well that's just not okay. 

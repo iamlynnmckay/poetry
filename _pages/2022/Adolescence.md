@@ -1,4 +1,7 @@
-# Adolescence
+---
+layout: page
+title: Adolescence
+---
 
 DOB \
 2ce \

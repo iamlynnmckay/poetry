@@ -1,4 +1,7 @@
-# An Literature
+---
+layout: page
+title: An Literature
+---
 
 My Sundays hands flip through catalogues \
 Of kitchens, pots, pans; \

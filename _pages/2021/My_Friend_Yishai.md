@@ -1,4 +1,7 @@
-# My Friend Yishai
+---
+layout: page
+title: My Friend Yishai
+---
 
 ## I
 \

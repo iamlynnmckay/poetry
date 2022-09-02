@@ -1,4 +1,7 @@
-# Spelt From Demeter
+---
+layout: page
+title: Spelt From Demeter
+---
 
 Amen, in nest; mantis hysteria; fog machine; phallic chilli. \
 \

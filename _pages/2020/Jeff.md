@@ -1,5 +1,8 @@
-# Jeff 
-\
+---
+layout: page
+title: Jeff 
+---
+
 I work for The Big One \
 In the Big Tower \
 With The Big People \

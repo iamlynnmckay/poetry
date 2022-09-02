@@ -1,5 +1,8 @@
-# Biological Female
-\
+---
+layout: page
+title: Biological Female
+---
+
 Smash your head against a concrete block, \
 Why do you \
 I want the \
