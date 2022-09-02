@@ -1,6 +1,7 @@
 ---
 layout: page
 title: A Number of Possible Endings
+permalink: /2018/A Number of Possible Endings
 ---
 
 # I. Summer Fire Diamonds: Welcome to Rome
