@@ -1,6 +1,7 @@
 ---
 layout: page
 title: A Complete Guide to Hating
+permalink: 2018/A Complete Guide to Hating
 ---
 
 ## I
