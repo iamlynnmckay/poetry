@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Poetry
-permalink: /poetry
+title: poetry
 ---
 
 test
