@@ -138,7 +138,7 @@ Left the metropolis \
 Of the school of kings \
 To be a prince. \
 \
-I was crowned the Emporer on that stage, \
+I was crowned the Empress on that stage, \
 The precipice I had looked up at as \
 An awestruck child, \
 Hatching dreams in Rainbow Rooms, \
