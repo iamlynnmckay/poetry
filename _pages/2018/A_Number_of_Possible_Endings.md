@@ -4,7 +4,7 @@ title: A Number of Possible Endings
 permalink: /2018/A Number of Possible Endings
 ---
 
-# I. Summer Fire Diamonds: Welcome to Rome
+## I. Summer Fire Diamonds: Welcome to Rome
 \
 Oh medicine, cracked medicine,  \
 Bottles and bottles of beer \
@@ -34,7 +34,7 @@ By a wish that scares me most: \
 To win and to have nothing \
 To wish for.
 
-# II. Autumn Wind Clubs: Mother on Bench
+## II. Autumn Wind Clubs: Mother on Bench
 \
 A large dark come to catch you \
 As cradle snatcher come to patch you \
@@ -48,7 +48,7 @@ Eyes and mines -- dunes from spring, \
 And are swallowed; \
 By time to go.
 
-# III. Winter Water Spades: My Spirituality
+## III. Winter Water Spades: My Spirituality
 \
 Teeth, too many teeth, \
 Too many teeth in children's \
@@ -76,7 +76,7 @@ We can be free of starvation, \
 Free of endings, \
 For none shall ever want again.
 
-# IV. Spring Air Hearts: iAm
+## IV. Spring Air Hearts: iAm
 \
 Nothing is bigger than the star beast \
 And the star beast is bigger than it all. \
