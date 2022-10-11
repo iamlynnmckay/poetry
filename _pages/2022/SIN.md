@@ -52,7 +52,7 @@ To thin nerved \
 Skin \
 Past a lip licked \
 To burst - \
-As drops - \ 
+As drops - \
 To spatter \
 Upon an marble, \
-And she likes it. 
+And she likes it.
