@@ -28,10 +28,13 @@ permalink: /
 - 2021
   - [My Friend Yishai](/poetry/2021/My Friend Yishai)
 - 2022
-  - [A Female Mao](/poetry/2022/A Female Mao)
   - [Adolescence](/poetry/2022/Adolescence)
+  - [A Female Mao](/poetry/2022/A Female Mao)
   - [Bach Roller](/poetry/2022/Bach Roller)
   - [Biological Female](/poetry/2022/Biological Female)
   - [Caphill Made Warm](/poetry/2022/Caphill Made Warm)
   - [Pain](/poetry/2022/Pain)
+  - [SIN](/poetry/2022/SIN)
+- 2023
+  - [Blaire Slash Piss](/poetry/2023/Blaire Slash Piss)
 
