@@ -31,7 +31,7 @@ Crusted, soft, \
 Dim — \
 And enlightened.  \
 \
-Laughing. \
+Laughing.
 
 ---
 
