@@ -35,7 +35,7 @@ Laughing.
 
 ---
 
-Where’s Kanye \
+Where’s Kanye? \
 Wouldn’t be surprised if he’s under a bridge Somewhere \
 Piling dirt \
 You know \
