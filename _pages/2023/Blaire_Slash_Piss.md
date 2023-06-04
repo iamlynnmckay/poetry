@@ -19,7 +19,7 @@ A gallows is carved. \
 \
 Like piss on a hot rock, \
 Fades like elephants, \
-Fades like Uber Eats in Seattle after 2am, \
+Fades like the next place in Seattle after 2am, \
 Fades like a friend after 3 years estranged, \
 Fades like a hairline, \
 Such fade may be blessed. \
