@@ -14,8 +14,9 @@ EOF
         echo "- $category" >> _pages/index.md
         for page in $(find _pages/$category/* -name "*.md");
         do 
-            local title="$(echo $page | sed 's/.*\///;s/.md//g;s/_/ /g')"
-            local url="/poetry/$category/$title"
+            local name="$(echo $page | sed 's/.*\///;s/.md//g')"
+            local title="$(echo $name | sed 's/_/ /g')"
+            local url="/poetry/$category/$name"
             echo "  - [$title]($url)" >> _pages/index.md
         done
     done
