@@ -36,7 +36,7 @@ Laughing.
 ---
 
 Where’s Kanye? \
-Wouldn’t be surprised if he’s under a bridge Somewhere \
-Piling dirt \
-You know \
+Wouldn’t be surprised if he’s under a bridge Somewhere, \
+Piling dirt, \
+You know: \
 “This is my castle”.
