@@ -35,4 +35,6 @@ permalink: /
   - [Caphill Made Warm](/poetry/2022/Caphill Made Warm)
   - [Pain](/poetry/2022/Pain)
   - [SIN](/poetry/2022/SIN)
+- 2023
+  - [Blaire Slash Piss](/poetry/2023/Blaire Slash Piss)
 
