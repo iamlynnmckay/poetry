@@ -16,7 +16,7 @@ EOF
         do 
             local name="$(echo $page | sed 's/.*\///;s/.md//g')"
             local title="$(echo $name | sed 's/_/ /g')"
-            local url="/poetry/$category/$name"
+            local url="/poetry/$category/$title"
             echo "  - [$title]($url)" >> _pages/index.md
         done
     done
