@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blaire Slash Piss
-permalink: /2023/Blaire Slash Piss
+permalink: /2023/Blaire_Slash_Piss
 ---
 
 As phones are drones \
